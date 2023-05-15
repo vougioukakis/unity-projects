@@ -12,3 +12,8 @@ I used the Question_Action prefab of ORamaVR's MAGES SDK for the quiz questions.
 ![Screenshot from 2023-05-15 14-46-57](https://github.com/vougioukakis/unity-projects/assets/121321765/9baf3a85-8908-4bbb-a5f8-f98ceda827ff)
 ![Screenshot from 2023-05-15 14-48-31](https://github.com/vougioukakis/unity-projects/assets/121321765/e2d0a90a-3e92-4b40-be3e-efd0969d0873)
 ![Screenshot from 2023-05-15 14-53-51](https://github.com/vougioukakis/unity-projects/assets/121321765/386f24d5-4ad2-4663-86f9-0a2551b23ca2)
+
+
+koenigsegg one:1 3D model: https://free3d.com/3d-model/koenigsegg-agera-72095.html
+plant : https://free3d.com/3d-model/house-plant-01-60848.html
+the tuning info panels were made using krita and canva
