@@ -1,6 +1,6 @@
 # unity-projects
 
-1) Tuning Guide
+- Tuning Guide
 Link to the Drive files coming soon.
 Made in May 2023, quick Unity project for an assignment in a programming course of university.
 The user can navigate around the car using arrow keys and click the component of choice, read information about it and then answer a short quiz.
