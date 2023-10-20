@@ -3,7 +3,10 @@
 <h1>Tuning Guide</h1>
 
 Link to the Drive files coming soon.
-Made in May 2023, quick Unity project for an assignment in a programming course of university.
+Made in May 2023, quick Unity project for a Hackathon held in university.
+
+![oramavr](https://github.com/vougioukakis/unity-projects/assets/121321765/e8b96686-04c0-417c-80f5-861b8db52467)
+
 The user can navigate around the car using arrow keys and click the component of choice, read information about it and then answer a short quiz.
 The 3D models and textures were not made by me, except for the panels with tuning info.
 I used the Question_Action prefab of ORamaVR's MAGES SDK for the quiz questions.
